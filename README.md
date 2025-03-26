@@ -26,3 +26,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karthick1024&" alt="karthick1024" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=karthick1024&show_icons=true&locale=en&layout=compact" alt="karthick1024" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karthick1024" alt="karthick1024" /></a></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karthick1024/karthick/a4a67b0d8df5422fa49706eac00f743847637114/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Karthick1024/karthick/a4a67b0d8df5422fa49706eac00f743847637114/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/karthick1024/karthick1024/output/github-snake.svg" />
+</picture>
